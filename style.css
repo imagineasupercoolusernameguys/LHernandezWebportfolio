@@ -1,0 +1,17 @@
+body{
+    background-color:burlywood;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+img, video{
+    max-width: 100%;
+    height: auto;
+}
